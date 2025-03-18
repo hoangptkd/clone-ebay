@@ -1,0 +1,852 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Áo Dài Gấm Ngũ Sắc Thái Tuấn Màu Cánh Sen, Hoa Mai",
+      "description": "Áo dài truyền thống Việt Nam làm từ chất liệu gấm cao cấp, họa tiết hoa mai tinh tế.",
+      "price": 1404205,
+      "currency": "VND",
+      "condition": "New (Other)",
+      "category": "Women's Dresses",
+      "size": "L",
+      "color": "Pink",
+      "dressLength": "Long",
+      "sleeveLength": "Long Sleeve",
+      "shippingCost": 884393.94,
+      "location": "United States",
+      "seller": "Thái Tuấn",
+      "image": "/images/products/ao-dai-gam.jpg",
+      "images": [
+        "/images/products/ao-dai-gam-1.jpg",
+        "/images/products/ao-dai-gam-2.jpg",
+        "/images/products/ao-dai-gam-3.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Áo dài cách tân",
+      "description": "Áo dài cách tân phong cách hiện đại, trẻ trung, phù hợp với nhiều dịp khác nhau.",
+      "price": 893585,
+      "currency": "VND",
+      "condition": "New (Other)",
+      "category": "Women's Dresses",
+      "size": "M",
+      "color": "Blue",
+      "dressLength": "Long",
+      "sleeveLength": "Long Sleeve",
+      "shippingCost": 989581.50,
+      "location": "United States",
+      "image": "/images/products/ao-dai-cach-tan.jpg",
+      "images": [
+        "/images/products/ao-dai-cach-tan-1.jpg",
+        "/images/products/ao-dai-cach-tan-2.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-05T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Áo dài cách tân màu hồng",
+      "description": "Áo dài cách tân màu hồng pastel, thiết kế hiện đại với họa tiết hoa đào tinh tế.",
+      "price": 1072302,
+      "currency": "VND",
+      "condition": "New (Other)",
+      "category": "Women's Dresses",
+      "size": "S",
+      "color": "Pink",
+      "dressLength": "Long",
+      "sleeveLength": "Long Sleeve",
+      "shippingCost": 994943.07,
+      "location": "United States",
+      "image": "/images/products/ao-dai-hong.jpg",
+      "images": [
+        "/images/products/ao-dai-hong-1.jpg",
+        "/images/products/ao-dai-hong-2.jpg",
+        "/images/products/ao-dai-hong-3.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-10T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Yên Boutique Suit Women Size Medium Vietnamese áo dài Tailor Made Satin Classic",
+      "description": "Bộ áo dài truyền thống Việt Nam được may đo tỉ mỉ từ chất liệu satin cao cấp.",
+      "price": 1276294.69,
+      "currency": "VND",
+      "originalPrice": 1500000,
+      "discount": 15,
+      "condition": "Pre-Owned",
+      "category": "Women's Dresses",
+      "size": "M",
+      "color": "Green",
+      "dressLength": "Long",
+      "sleeveLength": "Sleeveless",
+      "shippingCost": 1110598.50,
+      "location": "United States",
+      "seller": "Yên",
+      "image": "/images/products/yen-boutique.jpg",
+      "images": [
+        "/images/products/yen-boutique-1.jpg",
+        "/images/products/yen-boutique-2.jpg",
+        "/images/products/yen-boutique-3.jpg",
+        "/images/products/yen-boutique-4.jpg"
+      ],
+      "buyItNow": false,
+      "createdAt": "2023-11-20T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Áo dài truyền thống màu xanh",
+      "description": "Áo dài truyền thống màu xanh ngọc, chất liệu lụa cao cấp, thêu hoa sen tinh xảo.",
+      "price": 1500000,
+      "currency": "VND",
+      "condition": "New",
+      "category": "Women's Dresses",
+      "size": "M",
+      "color": "Blue",
+      "dressLength": "Long",
+      "sleeveLength": "Long Sleeve",
+      "shippingCost": 750000,
+      "location": "Vietnam",
+      "image": "/images/products/ao-dai-xanh.jpg",
+      "images": [
+        "/images/products/ao-dai-xanh-1.jpg",
+        "/images/products/ao-dai-xanh-2.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-15T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Áo dài cưới màu đỏ",
+      "description": "Áo dài cưới truyền thống màu đỏ may từ vải gấm, thêu họa tiết rồng phượng sang trọng.",
+      "price": 2500000,
+      "currency": "VND",
+      "condition": "New",
+      "category": "Women's Dresses",
+      "size": "M",
+      "color": "Red",
+      "dressLength": "Long",
+      "sleeveLength": "Long Sleeve",
+      "shippingCost": 850000,
+      "location": "Vietnam",
+      "image": "/images/products/ao-dai-cuoi.jpg",
+      "images": [
+        "/images/products/ao-dai-cuoi-1.jpg",
+        "/images/products/ao-dai-cuoi-2.jpg",
+        "/images/products/ao-dai-cuoi-3.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-20T00:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "iPhone 15 Pro Max 256GB - Titanium Black",
+      "description": "iPhone 15 Pro Max mới nhất với chip A17 Pro, camera 48MP, và thiết kế titanium cao cấp.",
+      "price": 32990000,
+      "currency": "VND",
+      "condition": "New",
+      "category": "Electronics",
+      "brand": "Apple",
+      "color": "Titanium Black",
+      "shippingCost": 0,
+      "location": "Vietnam",
+      "seller": "AppleVN",
+      "image": "/images/products/iphone-15-pro-max.jpg",
+      "images": [
+        "/images/products/iphone-15-pro-max-1.jpg",
+        "/images/products/iphone-15-pro-max-2.jpg",
+        "/images/products/iphone-15-pro-max-3.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-22T00:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Samsung Galaxy S23 Ultra 512GB - Phantom Black",
+      "description": "Samsung Galaxy S23 Ultra với bút S Pen, camera 200MP, và màn hình Dynamic AMOLED 2X.",
+      "price": 28990000,
+      "currency": "VND",
+      "condition": "New",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "color": "Phantom Black",
+      "shippingCost": 0,
+      "location": "Vietnam",
+      "seller": "SamsungVN",
+      "image": "/images/products/samsung-s23-ultra.jpg",
+      "images": [
+        "/images/products/samsung-s23-ultra-1.jpg",
+        "/images/products/samsung-s23-ultra-2.jpg",
+        "/images/products/samsung-s23-ultra-3.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-21T00:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "MacBook Pro 16-inch M3 Pro 36GB RAM 1TB SSD",
+      "description": "MacBook Pro 16-inch mới nhất với chip M3 Pro, màn hình Liquid Retina XDR, và thời lượng pin lên đến 22 giờ.",
+      "price": 65990000,
+      "currency": "VND",
+      "condition": "New",
+      "category": "Electronics",
+      "brand": "Apple",
+      "color": "Space Black",
+      "shippingCost": 0,
+      "location": "Vietnam",
+      "seller": "AppleVN",
+      "image": "/images/products/macbook-pro-16.jpg",
+      "images": [
+        "/images/products/macbook-pro-16-1.jpg",
+        "/images/products/macbook-pro-16-2.jpg",
+        "/images/products/macbook-pro-16-3.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-23T00:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "Sony PlayStation 5 Digital Edition",
+      "description": "Máy chơi game PlayStation 5 phiên bản kỹ thuật số với bộ điều khiển DualSense và SSD siêu nhanh.",
+      "price": 11990000,
+      "currency": "VND",
+      "condition": "New",
+      "category": "Electronics",
+      "brand": "Sony",
+      "color": "White",
+      "shippingCost": 200000,
+      "location": "Vietnam",
+      "seller": "GameStoreVN",
+      "image": "/images/products/ps5-digital.jpg",
+      "images": [
+        "/images/products/ps5-digital-1.jpg",
+        "/images/products/ps5-digital-2.jpg",
+        "/images/products/ps5-digital-3.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-20T00:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "Nón lá Việt Nam thủ công",
+      "description": "Nón lá truyền thống Việt Nam được làm thủ công, trang trí hoa văn tinh tế, phù hợp làm quà lưu niệm.",
+      "price": 150000,
+      "currency": "VND",
+      "condition": "New",
+      "category": "Collectibles",
+      "material": "Lá cọ, tre",
+      "shippingCost": 50000,
+      "location": "Hue, Vietnam",
+      "seller": "VietnamCrafts",
+      "image": "/images/products/non-la.jpg",
+      "images": [
+        "/images/products/non-la-1.jpg",
+        "/images/products/non-la-2.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-18T00:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "Tranh đông hồ - Gà đàn",
+      "description": "Tranh dân gian đông hồ truyền thống với chủ đề Gà đàn, được làm thủ công trên giấy dó.",
+      "price": 450000,
+      "currency": "VND",
+      "condition": "New",
+      "category": "Collectibles & Art",
+      "size": "40x60cm",
+      "material": "Giấy dó, màu tự nhiên",
+      "shippingCost": 75000,
+      "location": "Bac Ninh, Vietnam",
+      "seller": "DongHoArt",
+      "image": "/images/products/tranh-dong-ho.jpg",
+      "images": [
+        "/images/products/tranh-dong-ho-1.jpg",
+        "/images/products/tranh-dong-ho-2.jpg",
+        "/images/products/tranh-dong-ho-3.jpg"
+      ],
+      "buyItNow": true,
+      "createdAt": "2023-12-15T00:00:00Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Clothing, Shoes & Accessories",
+      "image": "/images/categories/clothing.jpg",
+      "subcategories": [
+        {
+          "id": 101,
+          "name": "Women's Dresses",
+          "image": "/images/categories/womens-dresses.jpg"
+        },
+        {
+          "id": 102,
+          "name": "Women's Tops",
+          "image": "/images/categories/womens-tops.jpg"
+        },
+        {
+          "id": 103,
+          "name": "Men's Clothing",
+          "image": "/images/categories/mens-clothing.jpg"
+        },
+        {
+          "id": 104,
+          "name": "Shoes",
+          "image": "/images/categories/shoes.jpg"
+        },
+        {
+          "id": 105,
+          "name": "Accessories",
+          "image": "/images/categories/accessories.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "image": "/images/categories/electronics.jpg",
+      "subcategories": [
+        {
+          "id": 201,
+          "name": "Smartphones",
+          "image": "/images/categories/smartphones.jpg"
+        },
+        {
+          "id": 202,
+          "name": "Laptops",
+          "image": "/images/categories/laptops.jpg"
+        },
+        {
+          "id": 203,
+          "name": "Audio",
+          "image": "/images/categories/audio.jpg"
+        },
+        {
+          "id": 204,
+          "name": "Gaming",
+          "image": "/images/categories/gaming.jpg"
+        },
+        {
+          "id": 205,
+          "name": "Cameras",
+          "image": "/images/categories/cameras.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Home & Garden",
+      "image": "/images/categories/home-garden.jpg",
+      "subcategories": [
+        {
+          "id": 301,
+          "name": "Furniture",
+          "image": "/images/categories/furniture.jpg"
+        },
+        {
+          "id": 302,
+          "name": "Kitchen",
+          "image": "/images/categories/kitchen.jpg"
+        },
+        {
+          "id": 303,
+          "name": "Garden",
+          "image": "/images/categories/garden.jpg"
+        },
+        {
+          "id": 304,
+          "name": "Home Decor",
+          "image": "/images/categories/home-decor.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Collectibles and Art",
+      "image": "/images/categories/collectibles.jpg",
+      "subcategories": [
+        {
+          "id": 401,
+          "name": "Antiques",
+          "image": "/images/categories/antiques.jpg"
+        },
+        {
+          "id": 402,
+          "name": "Art",
+          "image": "/images/categories/art.jpg"
+        },
+        {
+          "id": 403,
+          "name": "Coins & Paper Money",
+          "image": "/images/categories/coins.jpg"
+        },
+        {
+          "id": 404,
+          "name": "Collectibles",
+          "image": "/images/categories/collectibles-sub.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sports",
+      "image": "/images/categories/sports.jpg",
+      "subcategories": [
+        {
+          "id": 501,
+          "name": "Cycling",
+          "image": "/images/categories/cycling.jpg"
+        },
+        {
+          "id": 502,
+          "name": "Fitness",
+          "image": "/images/categories/fitness.jpg"
+        },
+        {
+          "id": 503,
+          "name": "Team Sports",
+          "image": "/images/categories/team-sports.jpg"
+        },
+        {
+          "id": 504,
+          "name": "Outdoor Sports",
+          "image": "/images/categories/outdoor-sports.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Toys",
+      "image": "/images/categories/toys.jpg",
+      "subcategories": [
+        {
+          "id": 601,
+          "name": "Action Figures",
+          "image": "/images/categories/action-figures.jpg"
+        },
+        {
+          "id": 602,
+          "name": "Building Toys",
+          "image": "/images/categories/building-toys.jpg"
+        },
+        {
+          "id": 603,
+          "name": "Dolls",
+          "image": "/images/categories/dolls.jpg"
+        },
+        {
+          "id": 604,
+          "name": "Games",
+          "image": "/images/categories/games.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Motors",
+      "image": "/images/categories/motors.jpg",
+      "subcategories": [
+        {
+          "id": 701,
+          "name": "Cars & Trucks",
+          "image": "/images/categories/cars-trucks.jpg"
+        },
+        {
+          "id": 702,
+          "name": "Motorcycles",
+          "image": "/images/categories/motorcycles.jpg"
+        },
+        {
+          "id": 703,
+          "name": "Parts & Accessories",
+          "image": "/images/categories/parts-accessories.jpg"
+        },
+        {
+          "id": 704,
+          "name": "Boats",
+          "image": "/images/categories/boats.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Health & Beauty",
+      "image": "/images/categories/health-beauty.jpg",
+      "subcategories": [
+        {
+          "id": 801,
+          "name": "Makeup",
+          "image": "/images/categories/makeup.jpg"
+        },
+        {
+          "id": 802,
+          "name": "Skin Care",
+          "image": "/images/categories/skin-care.jpg"
+        },
+        {
+          "id": 803,
+          "name": "Hair Care",
+          "image": "/images/categories/hair-care.jpg"
+        },
+        {
+          "id": 804,
+          "name": "Fragrances",
+          "image": "/images/categories/fragrances.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Industrial equipment",
+      "image": "/images/categories/industrial.jpg",
+      "subcategories": [
+        {
+          "id": 901,
+          "name": "Heavy Equipment",
+          "image": "/images/categories/heavy-equipment.jpg"
+        },
+        {
+          "id": 902,
+          "name": "Manufacturing",
+          "image": "/images/categories/manufacturing.jpg"
+        },
+        {
+          "id": 903,
+          "name": "Construction",
+          "image": "/images/categories/construction.jpg"
+        },
+        {
+          "id": 904,
+          "name": "Electrical Equipment",
+          "image": "/images/categories/electrical-equipment.jpg"
+        }
+      ]
+    }
+  ],
+  "popularCategories": [
+    {
+      "id": 1,
+      "name": "Luxury",
+      "image": "/images/categories/luxury.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sneakers",
+      "image": "/images/categories/sneakers.jpg"
+    },
+    {
+      "id": 3,
+      "name": "P&A",
+      "image": "/images/categories/pa.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Refurbished",
+      "image": "/images/categories/refurbished.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Trading cards",
+      "image": "/images/categories/trading-cards.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pre-loved Luxury",
+      "image": "/images/categories/pre-loved.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Toys",
+      "image": "/images/categories/toys-popular.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "address": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "US",
+      "phone": "123-456-7890",
+      "createdAt": "2023-01-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "email": "jane@example.com",
+      "password": "password123",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "address": "456 Park Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90001",
+      "country": "US",
+      "phone": "987-654-3210",
+      "createdAt": "2023-02-15T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "email": "seller@example.com",
+      "password": "password123",
+      "firstName": "David",
+      "lastName": "Johnson",
+      "address": "789 Oak St",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60007",
+      "country": "US",
+      "phone": "555-123-4567",
+      "createdAt": "2023-03-10T00:00:00Z",
+      "isSeller": true,
+      "sellerRating": 4.8,
+      "sellerSince": "2023-03-15T00:00:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-123456789",
+      "userId": 1,
+      "items": [
+        {
+          "id": 1,
+          "title": "Áo Dài Gấm Ngũ Sắc Thái Tuấn Màu Cánh Sen, Hoa Mai",
+          "price": 1404205,
+          "quantity": 1,
+          "image": "/images/products/ao-dai-gam.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Áo dài cách tân màu hồng",
+          "price": 1072302,
+          "quantity": 1,
+          "image": "/images/products/ao-dai-hong.jpg"
+        }
+      ],
+      "total": 2476507,
+      "shippingAddress": {
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "US"
+      },
+      "billingAddress": {
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "US"
+      },
+      "paymentMethod": "credit-card",
+      "status": "Processing",
+      "createdAt": "2023-12-25T10:30:00Z"
+    },
+    {
+      "id": "ORD-987654321",
+      "userId": 1,
+      "items": [
+        {
+          "id": 4,
+          "title": "Yên Boutique Suit Women Size Medium Vietnamese áo dài Tailor Made Satin Classic",
+          "price": 1276294.69,
+          "quantity": 1,
+          "image": "/images/products/yen-boutique.jpg"
+        }
+      ],
+      "total": 1276294.69,
+      "shippingAddress": {
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "US"
+      },
+      "billingAddress": {
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "US"
+      },
+      "paymentMethod": "paypal",
+      "status": "Delivered",
+      "createdAt": "2023-12-18T14:45:00Z"
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "title": "There's a deal for you, too",
+      "subtitle": "Don't miss a chance to save on items you've been looking for.",
+      "buttonText": "Explore now",
+      "buttonLink": "/deals",
+      "bgColor": "#ff5722",
+      "image": "/images/banners/deals-banner.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Top brands, bottom prices",
+      "subtitle": "Find amazing deals on your favorite brands.",
+      "buttonText": "Shop now",
+      "buttonLink": "/brands",
+      "bgColor": "#2196f3",
+      "image": "/images/banners/brands-banner.jpg"
+    },
+    {
+      "id": 3,
+      "title": "New season, new style",
+      "subtitle": "Discover the latest fashion trends at great prices.",
+      "buttonText": "See more",
+      "buttonLink": "/fashion",
+      "bgColor": "#4caf50",
+      "image": "/images/banners/fashion-banner.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "productId": 1,
+      "userId": 2,
+      "rating": 5,
+      "title": "Tuyệt vời!",
+      "comment": "Chất lượng vải rất tốt, màu sắc đẹp như hình. Giao hàng nhanh và đóng gói cẩn thận.",
+      "createdAt": "2023-12-10T08:15:00Z"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "userId": 1,
+      "rating": 4,
+      "title": "Hài lòng",
+      "comment": "Áo dài đẹp, vải chất lượng tốt. Chỉ tiếc là hơi chật một chút so với kích thước đã chọn.",
+      "createdAt": "2023-12-15T14:30:00Z"
+    },
+    {
+      "id": 3,
+      "productId": 4,
+      "userId": 1,
+      "rating": 5,
+      "title": "Sản phẩm tuyệt vời",
+      "comment": "Áo dài đẹp hơn cả mong đợi. Chất liệu satin mềm mại và sang trọng.",
+      "createdAt": "2023-12-20T09:45:00Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "senderId": 1,
+      "receiverId": 3,
+      "productId": 1,
+      "text": "Xin chào, tôi muốn hỏi về sản phẩm Áo Dài Gấm. Bạn còn size XL không?",
+      "timestamp": "2023-12-24T10:30:00Z",
+      "isRead": true
+    },
+    {
+      "id": 2,
+      "senderId": 3,
+      "receiverId": 1,
+      "productId": 1,
+      "text": "Chào bạn, hiện tại chúng tôi còn size XL. Bạn có thể đặt hàng ngay bây giờ.",
+      "timestamp": "2023-12-24T11:15:00Z",
+      "isRead": true
+    },
+    {
+      "id": 3,
+      "senderId": 1,
+      "receiverId": 3,
+      "productId": 1,
+      "text": "Cảm ơn bạn. Tôi sẽ đặt hàng ngay.",
+      "timestamp": "2023-12-24T11:30:00Z",
+      "isRead": true
+    }
+  ],
+  "watchlist": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 2,
+      "addedAt": "2023-12-23T15:45:00Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "productId": 7,
+      "addedAt": "2023-12-24T09:30:00Z"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "productId": 5,
+      "addedAt": "2023-12-22T14:20:00Z"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 3,
+      "quantity": 1,
+      "addedAt": "2023-12-25T08:15:00Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "productId": 9,
+      "quantity": 1,
+      "addedAt": "2023-12-25T10:30:00Z"
+    }
+  ],
+  "sellerStats": [
+    {
+      "id": 1,
+      "sellerId": 3,
+      "totalSales": 5000000,
+      "totalOrders": 12,
+      "totalProducts": 8,
+      "pendingOrders": 2,
+      "views": 450,
+      "revenue": [
+        { "month": "Jan", "amount": 0 },
+        { "month": "Feb", "amount": 0 },
+        { "month": "Mar", "amount": 1200000 },
+        { "month": "Apr", "amount": 1500000 },
+        { "month": "May", "amount": 2300000 },
+        { "month": "Jun", "amount": 0 }
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": "order",
+      "message": "Đơn hàng #ORD-123456789 của bạn đã được xác nhận.",
+      "isRead": false,
+      "createdAt": "2023-12-25T11:00:00Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "type": "price_drop",
+      "message": "Sản phẩm trong danh sách theo dõi của bạn đã giảm giá!",
+      "isRead": false,
+      "createdAt": "2023-12-24T15:30:00Z"
+    }
+  ],
+  "settings": {
+    "currency": "VND",
+    "languages": ["en", "vi"],
+    "defaultLanguage": "vi",
+    "shippingCountries": ["US", "CA", "UK", "AU", "VN"],
+    "paymentMethods": ["credit-card", "paypal", "bank-transfer"]
+  }
+}

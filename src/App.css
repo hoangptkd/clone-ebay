@@ -1,0 +1,57 @@
+/* Custom styles for eBay clone */
+
+/* Logo styling */
+.logo {
+  max-height: 40px;
+}
+
+/* Cursor pointer for clickable elements */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* Category card styling */
+.category-card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
+}
+
+/* Product card styling */
+.card {
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transform: translateY(-3px);
+}
+
+/* Thumbnail container */
+.thumbnail-container {
+  scrollbar-width: thin;
+  scrollbar-color: #ddd #f5f5f5;
+}
+
+.thumbnail-container::-webkit-scrollbar {
+  height: 6px;
+}
+
+.thumbnail-container::-webkit-scrollbar-track {
+  background: #f5f5f5;
+}
+
+.thumbnail-container::-webkit-scrollbar-thumb {
+  background-color: #ddd;
+  border-radius: 6px;
+}
+
+/* Color options in filter */
+.color-option label {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.color-option label:hover {
+  transform: scale(1.1);
+}
+
